@@ -1,8 +1,7 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Project by [@rabble](http://twitter.com/rabble)
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+[@_mattholland](https://twitter.com/_mattholland)
 &mdash;
-this site is [open source]({{ site.source_link }})
-
+this app is [open source](http://github.com/advocacycommons/advocacycommons)
